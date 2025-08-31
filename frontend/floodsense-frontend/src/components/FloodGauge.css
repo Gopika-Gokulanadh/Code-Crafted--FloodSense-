@@ -1,0 +1,17 @@
+.flood-gauge-container {
+  width: 200px;
+  margin: 30px auto;
+  position: relative;
+}
+
+.progress-ring {
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+  transition: stroke-dashoffset 1s ease-out;
+}
+
+.flood-percentage {
+  font-size: 24px;
+  fill: #2196f3;
+  font-weight: bold;
+}

@@ -1,0 +1,41 @@
+.prediction-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 2rem 0;
+}
+
+.image-block {
+  text-align: center;
+}
+
+.image-block img {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.image-caption {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #f1f1f1;
+}
+.prediction-section {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 40px auto;
+  flex-wrap: wrap;
+}
+
+
+.image-label {
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}

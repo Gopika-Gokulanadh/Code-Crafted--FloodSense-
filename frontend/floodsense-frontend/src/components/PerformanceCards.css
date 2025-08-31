@@ -1,0 +1,64 @@
+.performance-container {
+  margin-top: 4rem;
+  padding: 2rem;
+}
+
+.card-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 2rem;
+  width: 240px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.glass-card:hover {
+  transform: scale(1.04);
+}
+
+.circular-progress {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 0 auto 1.2rem auto;
+  background: conic-gradient(#00f 0deg, rgba(255,255,255,0.1) 0deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.progress-value {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.metric-info h3 {
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.metric-subtitle {
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-top: 0.3rem;
+  display: block;
+}
+
+.metric-icon {
+  font-size: 1.6rem;
+  margin-bottom: 0.4rem;
+  color: inherit;
+}
