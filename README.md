@@ -54,7 +54,7 @@ Google Colab, VS Code
 ## 📦 Installation
 
 ### Clone the repository:
-git clone https://github.com/yourusername/disaster-segmentation.git
+git clone https://github.com/Gopika-Gokulanadh/Code-Crafted--FloodSense-.git
 cd disaster-segmentation
 
 ### Install dependencies:
@@ -88,9 +88,13 @@ Sample visualization:
 ---
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (598)" src="https://github.com/user-attachments/assets/1e9249d5-c2fc-4afd-9b51-55b644af26eb" />
+
 <img width="1920" height="1080" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/3fb7bf13-3bdf-4ed0-8fa3-f4553a8d0352" />
+
 <img width="1920" height="1080" alt="Screenshot (600)" src="https://github.com/user-attachments/assets/b813f844-e38e-4efe-b52e-f9d59a2e21a3" />
+
 <img width="1920" height="1080" alt="Screenshot (601)" src="https://github.com/user-attachments/assets/03a6ab70-4cfb-43a1-8ecf-a29cc3d2d881" />
+
 <img width="1920" height="1080" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/9f504300-dbe9-459a-b685-7e672b5088de" />
 
 ---
